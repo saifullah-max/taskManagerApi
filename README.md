@@ -26,7 +26,7 @@ MongoDB (Local or MongoDB Atlas)
 
 🚀 Steps to Set Up Locally
 Clone the Repository
-git clone https://github.com/yourusername/task-manager-api.git
+git clone https://github.com/saifullah-max/taskManagerApi.git
 cd task-manager-api
 
 Install Dependencies
